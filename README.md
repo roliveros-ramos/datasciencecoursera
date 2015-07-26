@@ -1,4 +1,7 @@
-This repository includes the script for processing and producing a tidy data set for coursera course.
+Getting and Cleaning Data Assignment
+====================================
+
+This repository includes the script for processing and producing a tidy data set for coursera *Getting and Cleaning Data* course.
 
 1. Using a "readData" function, reads training and test data sets.
 2. Merge both data sets.
